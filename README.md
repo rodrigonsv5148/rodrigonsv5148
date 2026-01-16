@@ -8,12 +8,12 @@
 
 ###
 
-<p align="center">Tenho 28000 anos e durante esse tempo de vida conheci e me encontrei em jogos, inicialmente como um passa tempo mas agora como uma profissão, com um principal foco em Programação (Unity - C#) e Game Design, mas não só, coleciono habilidades em modelagem 3D (Blender) e texturização (Substance Painter). Admito viajante que comecei um pouco tarde na área de jogos, dada que em minha vida já estudei C, Python, Pascal e até Matlab.<br><br>Hoje em dia busco focar meus trabalhos mais na área de jogos mas com flexibilidade para migração em outros ramos da programação. Meus trabalhos na área ainda são principalmente aqueles trabalhos que fazemos no cunho pessoal e de entregas na universidade.<br><br>Atualmente sou estudante da UNEB (Universidade do Estado da Bahia), mas já passei 2 anos na UFBA (Universidade Federal da Bahia) estudando Engenharia da Computação.<br><br>Fique a vontade para tomar um café, dar uma passeada pelos meus portfólios clicando nos links abaixo e até me contatar pelo e-mail<br><br>rodrigonsv5148@gmail.com</p>
+<p align="center">Nessa vida de "xingar o software e bater no hardware" a 3 anos, também conhecida como desenvolvimento de jogos. <br><br>Com foco em programação (Unity - C#) e Game Design mas colecionando habilidades em modelagem 3D (Blender) e texturização (Substance Painter)<br><br>Também tenho flexibilidade de me interessar em outras áreas relacionadas a programação, já passei por C, Python e até Pascal e Matlab.<br><br>Sou um junior em busca de oportunidades, meus principais trabalhos ainda são pessoais e de entregas da faculdade. Por falar nela, sou estudante da UNEB (Universidade do Estado da Bahia), mas já passei 2 anos na UFBA (Universidade Federal da Bahia) estudando Engenharia da Computação.<br><br>Fique a vontade para tomar um café, dar uma passeada pelos meus portfólios clicando nos links abaixo e até me contatar pelo e-mail<br><br>rodrigonsv5148@gmail.com</p>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/rodrigoveiga5148" target="_blank">
+  <a href="https://www.linkedin.com/in/rodrigoveiga5148/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://rodrigonsv5148.itch.io/" target="_blank">
@@ -47,6 +47,8 @@
 <h2 align="center">Obrigado pela visita</h2>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigonsv5148/rodrigonsv5148/output/pacman-contribution-graph-dark.svg">
