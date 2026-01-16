@@ -44,11 +44,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rodrigonsv5148/rodrigonsv5148/output/snake.svg" alt="Snake animation" />
+<h2 align="center">Obrigado pela visita</h2>
 
 ###
 
-<h2 align="center">Obrigado pela visita</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigonsv5148/rodrigonsv5148/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigonsv5148/rodrigonsv5148/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rodrigonsv5148/rodrigonsv5148/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
