@@ -1,10 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=header&reversal=false&text=Hello%20World!!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
-
-###
-
-<h1 align="center">Hello World!!</h1>
 
 ###
 
@@ -44,16 +40,12 @@
 
 ###
 
-<h2 align="center">Obrigado pela visita</h2>
-
-###
-
 <br clear="both">
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&text=Obrigado%20pela%20visita&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
 ###
